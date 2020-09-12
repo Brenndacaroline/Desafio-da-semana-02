@@ -1,0 +1,29 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: orangered; 
+    text-align: center;
+}
+.info{
+    color:orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+footer{
+    padding-bottom:20px ;
+    padding-top: 20px;
+    text-align: center;
+    height: 70px;
+    background-color: salmon;
+}
+#titulo-footer{
+    color: white;
+
+}
